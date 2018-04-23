@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="78" started-at="2018-04-23T00:23:54Z" finished-at="2018-04-23T00:23:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="78" started-at="2018-04-23T00:23:54Z" finished-at="2018-04-23T00:23:54Z">
+      <class name="com.test.TestApi">
+        <test-method status="PASS" signature="testBodyIsString()[pri:0, instance:com.test.TestApi@30f842ca]" name="testBodyIsString" duration-ms="15" started-at="2018-04-23T02:23:54Z" finished-at="2018-04-23T02:23:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBodyIsString -->
+        <test-method status="PASS" signature="testEmailIsString()[pri:0, instance:com.test.TestApi@30f842ca]" name="testEmailIsString" duration-ms="0" started-at="2018-04-23T02:23:54Z" finished-at="2018-04-23T02:23:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEmailIsString -->
+        <test-method status="PASS" signature="testPostIdIsIntiger()[pri:0, instance:com.test.TestApi@30f842ca]" name="testPostIdIsIntiger" duration-ms="15" started-at="2018-04-23T02:23:54Z" finished-at="2018-04-23T02:23:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostIdIsIntiger -->
+        <test-method status="PASS" signature="testIdIsInteger()[pri:0, instance:com.test.TestApi@30f842ca]" name="testIdIsInteger" duration-ms="0" started-at="2018-04-23T02:23:54Z" finished-at="2018-04-23T02:23:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIdIsInteger -->
+        <test-method status="PASS" signature="testNameIsString()[pri:0, instance:com.test.TestApi@30f842ca]" name="testNameIsString" duration-ms="0" started-at="2018-04-23T02:23:54Z" finished-at="2018-04-23T02:23:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNameIsString -->
+      </class> <!-- com.test.TestApi -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
